@@ -30,4 +30,8 @@
 
 ## 💡 Random Dev Quote
 
-<h4>"To be a star, you must shine your own light, follow your own path, and don't worry about darkness, for that is when the stars shine brightest."<span style="color: #5B8FB9;"> - Napoleon Hill></span></h4>
+<h4>"To be a star, you must shine your own light, follow your own path, and don't worry about darkness, for that is when the stars shine brightest."</h4><span style="color: #5B8FB9;"> - Napoleon Hill</span>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=tobias-melo&icon=0&color=0)](https://visitcount.itsvg.in)
