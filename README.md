@@ -30,7 +30,7 @@
 
 ## 💡 Random Dev Quote
 
-<h4>"To be a star, you must shine your own light, follow your own path, and don't worry about darkness, for that is when the stars shine brightest."</h4>_<span style="color: #5B8FB9;"> | Napoleon Hill</span>_
+<h4>"To be a star, you must shine your own light, follow your own path, and don't worry about darkness, for that is when the stars shine brightest."</h4><span style="color: #5B8FB9; font-style: italic;">Napoleon Hill</span>
 
 ---
 
