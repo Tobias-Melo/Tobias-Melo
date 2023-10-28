@@ -25,7 +25,7 @@
 
 
 > ![Tobias GitHub stats](https://github-readme-stats.vercel.app/api?username=tobias-melo&show_icons=true&theme=dark)
->>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-melo&theme=dark&layout=donut)
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-melo&theme=dark&layout=donut)
 
 
 ## 💡 Random Dev Quote
